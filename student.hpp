@@ -7,11 +7,11 @@ int add(int a, int b);
 
 // Exercise 2: implements function 'mul', that multiplies two numbers
 int mul(int a, int b);
-   
+
 // ===============
 // implementations
 
-int add(int a, int b) 
+int add(int a, int b)
 {
    return a+b; // TODO: fix
 }
@@ -21,3 +21,5 @@ int mul(int a, int b)
 {
    return a*b; // TODO: fix
 }
+
+// tais esteve aqui
